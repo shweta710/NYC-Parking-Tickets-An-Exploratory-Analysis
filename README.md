@@ -1,6 +1,8 @@
 # NYC-Parking-Tickets-An-Exploratory-Analysis
 The purpose of this case study is to conduct an exploratory data analysis that will help you understand the data. 
 In an attempt to scientifically analyse this phenomenon, the NYC Police Department has collected data for parking tickets. Of these, the data files for multiple years are publicly available on Kaggle. We will try and perform some exploratory analysis on a part of this data. Spark will allow us to analyse the full files at high speeds as opposed to taking a series of random samples that will approximate the population. For the scope of this analysis, we will analyse the parking tickets over the year 2017. 
+Link for dataset:
+https://www.kaggle.com/new-york-city/nyc-parking-tickets/data
 
 The data for this case study has been placed in HDFS at the following path:
 
